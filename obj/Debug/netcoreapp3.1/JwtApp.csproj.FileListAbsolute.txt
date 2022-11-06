@@ -1,0 +1,134 @@
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.exe
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.deps.json
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.runtimeconfig.json
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.runtimeconfig.dev.json
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.pdb
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.Views.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\JwtApp.Views.pdb
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.csproj.AssemblyReference.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.AssemblyInfoInputs.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.AssemblyInfo.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.csproj.CoreCompileInputs.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.RazorAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.RazorAssemblyInfo.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\staticwebassets\JwtApp.StaticWebAssets.Manifest.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\staticwebassets\JwtApp.StaticWebAssets.xml
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\JwtApp.styles.css
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.TagHelpers.input.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.TagHelpers.output.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.RazorCoreGenerate.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.RazorTargetAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.RazorTargetAssemblyInfo.cs
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.Views.pdb
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.csproj.CopyComplete
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.dll
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.pdb
+D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\obj\Debug\netcoreapp3.1\JwtApp.genruntimeconfig.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.StaticWebAssets.xml
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.exe
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.deps.json
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.runtimeconfig.json
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.runtimeconfig.dev.json
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.Views.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\JwtApp.Views.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.csproj.AssemblyReference.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.AssemblyInfoInputs.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.AssemblyInfo.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.csproj.CoreCompileInputs.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.RazorAssemblyInfo.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.RazorAssemblyInfo.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\staticwebassets\JwtApp.StaticWebAssets.Manifest.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.TagHelpers.input.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.TagHelpers.output.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.RazorCoreGenerate.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.RazorTargetAssemblyInfo.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.RazorTargetAssemblyInfo.cs
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.Views.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.csproj.CopyComplete
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\obj\Debug\netcoreapp3.1\JwtApp.genruntimeconfig.cache
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\ExpressSecurity.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\WinDows\source\repos\jwt-dotnetcore-web-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Twitter.dll
